@@ -1,4 +1,5 @@
 Collection of Web Dev Projects
 
-1. Simon Game
-2. QR Code 
+1. Dice Game
+2. Simon Game
+3. QR Code 
